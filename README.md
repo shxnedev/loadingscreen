@@ -7,3 +7,5 @@
 **Zero Resource Overhead.** Extremely lightweight footprint on client memory. Fast DOM load times, zero memory leaks, and negligible CPU impact during the initial join pipeline.
 
 **Fully Standalone.** 100% framework-agnostic. Drop-in ready for ESX, QBCore, Qbox, or custom standalone setups without external dependencies.
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/daabd8b0-e52f-4392-a8d8-603045ad5962" />
